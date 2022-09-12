@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662952576 source:d:\struktur data\stack-simpel\stack-simpel\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
